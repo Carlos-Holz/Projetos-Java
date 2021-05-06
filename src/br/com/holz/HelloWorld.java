@@ -1,4 +1,4 @@
-package br.com.holz3;
+package br.com.holz;
 
 public class HelloWorld {
 	public static void main(String[] args) {
